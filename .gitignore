@@ -1,0 +1,43 @@
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Java
+*.class
+*.classpath
+*.project
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Maven
+target
+report
+*.versionsBackup
+*.releaseBackup
+
+# Intellij Idea
+.idea
+*.iml
+*.iws
+*.ipr
+temp
+
+# Visual Studio Code
+.vscode
+
+# Gradle
+.gradle
+build
+out
+user.gradle
+
+# Git merge
+*.orig
+
+#Test results
+allure-results
